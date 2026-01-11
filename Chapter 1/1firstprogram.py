@@ -1,0 +1,6 @@
+print("Hello World")
+print("Hello python, This is priya" , "And I am 19 year old learner")
+print("And I am 19 year old learner")
+print(23)
+print(35)
+print(35+23)
